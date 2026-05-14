@@ -1,8 +1,5 @@
-## NOW TESTING CLONING OF NEWLY ADDED DATA
-
-## TESTING THE DEVELOP BRANCH CREATED
 #multiply.py
-
+PRACTICE TESTING NOW
 import numpy as np
 import logging
 from math import ceil, log2
